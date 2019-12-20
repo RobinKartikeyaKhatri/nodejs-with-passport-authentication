@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-with-passport-authentication",
+  "version": "1.0.0",
+  "description": "Node.js With Passport Authentication",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RobinKartikeyaKhatri/nodejs-with-passport-authentication.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RobinKartikeyaKhatri/nodejs-with-passport-authentication/issues"
+  },
+  "homepage": "https://github.com/RobinKartikeyaKhatri/nodejs-with-passport-authentication#readme"
+}
